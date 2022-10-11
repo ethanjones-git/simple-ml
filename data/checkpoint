@@ -1,0 +1,2 @@
+model_checkpoint_path: "out_model_trendKGS-km"
+all_model_checkpoint_paths: "out_model_trendKGS-km"
