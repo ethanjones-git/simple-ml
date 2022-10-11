@@ -4,4 +4,4 @@ This repo demonstrates code used to create a simple ML app (at the time of writi
 
 I present my python code written in OOP used for the predictive model. 
 
-This does not include the application and source file. That instread queries csvs generated from this code.
+This does not include the application and source file. That instead queries .csvs generated from this code.
