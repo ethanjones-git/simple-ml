@@ -1,13 +1,7 @@
-# sept_kaggle
+# simple_ml
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+This repo demonstrates code used to create a simple ML app (at the time of writing hosted at http://simple-ml-viz.herokuapp.com/)
 
+I present my python code written in OOP used for the predictive model. 
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
+This does not include the application and source file. That instread queries csvs generated from this code.
