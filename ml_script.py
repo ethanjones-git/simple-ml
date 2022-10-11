@@ -15,6 +15,7 @@ import os
 path = os.path.realpath('..')
 path = path + '/simple_ml'
 
+''' Functions and Classes '''
 #load classes/files
 def smape(A, F):
     '''
@@ -636,11 +637,8 @@ class TS_model():
         fig.add_trace(go.Scatter(y=df[obs]['2020'], x=df['2020'].index, name='observation'))
         fig.show()
 
-'''
-EDA app - https://eda-jones2022.herokuapp.com/
-'''
+''' ML training using such functions '''
 
-''' TRAIN ALL MODELS '''
 #instatiate class with the training file
 d1=TS_model('train')
 
